@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/hello', 'BotController@index');
+Route::get('/', 'BotController@index');
